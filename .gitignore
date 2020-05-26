@@ -1,2 +1,10 @@
 .idea/
 cmake-build-*/
+*CMakeFiles*
+*o
+*.cmake
+*.exe
+*.a
+*Makefile*
+*.tcl
+CMakeCache.txt
