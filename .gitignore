@@ -18,3 +18,4 @@ _deps
 testtools/cpputest/libCppUTest.a
 testtools/cpputestext/libCppUTestExt.a
 *.exe
+DartConfiguration.tcl
