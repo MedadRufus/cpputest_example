@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.11)
+cmake_minimum_required(VERSION 3.7)
 
 include_directories(${CPPUTEST_SRC_DIR})
 include_directories(${CPPUTESTEXT_SRC_DIR})
