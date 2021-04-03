@@ -1,5 +1,6 @@
 {
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "cmakeExplorer.buildDir": "build",
-    "cpputestExplorer.testExecutable": "${workspaceFolder}/build/tests/pythagorean_ut/pythagorean_ut"
+    "cpputestExplorer.testExecutable": "${workspaceFolder}/build/tests/pythagorean_ut/pythagorean_ut",
+    "cpputestExplorer.logpanel": true
 }
